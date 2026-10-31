@@ -4,6 +4,8 @@ Aplicativo desktop (Windows) que consulta em lote a situação de CNPJs no porta
 [Simples Nacional](https://www8.receita.fazenda.gov.br/simplesnacional/aplicacoes.aspx?id=21)
 (Receita Federal): optante pelo Simples Nacional, SIMEI e regime regular de IBS e CBS.
 
+![Tela do aplicativo](docs/app.png)
+
 ## O que faz
 
 - Recebe uma lista de CNPJs (um por linha ou separados por `;` ou `,`).
